@@ -37,12 +37,3 @@ Infraestructura cloud para ERP, file server y aplicaciones empresariales.
 ### Power BI
 
 Dashboards e informes conectados a datos empresariales para mejorar el análisis y la toma de decisiones.
-
----
-
-## Contacto
-
-Sitio web: [https://sistematica.com.ar](https://sistematica.com.ar)  
-LinkedIn: [Sistemática IS](https://www.linkedin.com/company/sistematica-is/)  
-Email: [info@sistematica.com.ar](mailto:info@sistematica.com.ar)  
-Ubicación: Rosario, Santa Fe, Argentina
