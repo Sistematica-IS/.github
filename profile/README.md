@@ -40,19 +40,6 @@ Dashboards e informes conectados a datos empresariales para mejorar el análisis
 
 ---
 
-## Tecnología y desarrollo
-
-Trabajamos en soluciones empresariales integrando software, infraestructura y datos:
-
-- ERP e-Zential
-- Aplicaciones móviles
-- Integraciones con sistemas externos
-- Automatización de procesos
-- Infraestructura cloud
-- Reporting y análisis de datos
-
----
-
 ## Contacto
 
 Sitio web: [https://sistematica.com.ar](https://sistematica.com.ar)  
