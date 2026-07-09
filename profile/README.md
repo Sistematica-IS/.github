@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Sistemática Ingeniería de Software" width="100%">
+  <img src="./sistematica.png" alt="Sistemática Ingeniería de Software" width="100%">
 </p>
 
 # Sistemática Ingeniería de Software
